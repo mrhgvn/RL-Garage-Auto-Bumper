@@ -23,7 +23,6 @@ You will receive a notification when the item(s) you are looking for are found! 
 
 Release notes (v1.2.9 - 2023.04.05) <br>
 - Minor bug fixes and changes
-- Automatic configuration backup
 
 <b>Discord:</b> Emrah#9685 <br>
 <b>Telegram:</b> t.me/mrhgvn
